@@ -124,15 +124,15 @@ export default function Home() {
         <section id="campaigns" className="campaign-section section-pad">
           <Reveal className="section-heading split-heading">
             <div>
-              <p className="eyebrow"><span /> Campaign reel</p>
+              <p className="eyebrow"><span /> Viral content</p>
               <h2>Content that feels<br /><em>native to the feed.</em></h2>
             </div>
             <p>Selected creator content and market-facing storytelling across YouTube and Instagram.</p>
           </Reveal>
           <div className="video-grid">
             <Reveal><VideoCard label="YouTube Shorts" title="Beauty storytelling in motion" src={youtube} href="https://youtube.com/shorts/LIbDVViWu2M" /></Reveal>
-            <Reveal delay={90}><VideoCard label="Instagram Reel" title="#MaskTheDifference" src={instagram("DaVpKz3P7JJ")} href="https://www.instagram.com/reel/DaVpKz3P7JJ/" /></Reveal>
-            <Reveal delay={180}><VideoCard label="Instagram Reel" title="Campaign continuation" src={instagram("Da-WJlhtuM3")} href="https://www.instagram.com/reel/Da-WJlhtuM3/" /></Reveal>
+            <Reveal delay={90}><VideoCard label="Viral Content · Instagram Reel" title="LAGOM viral beauty content" src={instagram("DZuSWojvKO9")} href="https://www.instagram.com/reel/DZuSWojvKO9/" /></Reveal>
+            <Reveal delay={180}><VideoCard label="Viral Content · Instagram Reel" title="LAGOM creator content" src={instagram("DXzCSgvp6m8")} href="https://www.instagram.com/reel/DXzCSgvp6m8/" /></Reveal>
           </div>
           <div className="center-action"><a className="glass-button primary-button" href="/work#campaigns">View every campaign <span>↗</span></a></div>
         </section>
