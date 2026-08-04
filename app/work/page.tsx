@@ -59,9 +59,11 @@ export default function WorkPage() {
             <Reveal><VideoCard label="YouTube Shorts" title="Beauty storytelling in motion" src="https://www.youtube.com/embed/LIbDVViWu2M?autoplay=1&mute=1&loop=1&playlist=LIbDVViWu2M&controls=0&playsinline=1&rel=0" href="https://youtube.com/shorts/LIbDVViWu2M" /></Reveal>
             <Reveal delay={60}><VideoCard label="Instagram Reel" title="#MaskTheDifference" src={instagram("DaVpKz3P7JJ")} href="https://www.instagram.com/reel/DaVpKz3P7JJ/" /></Reveal>
             <Reveal delay={120}><VideoCard label="Instagram Reel" title="Campaign continuation" src={instagram("Da-WJlhtuM3")} href="https://www.instagram.com/reel/Da-WJlhtuM3/" /></Reveal>
+            <Reveal delay={60}><VideoCard label="Viral Content · Instagram Reel" title="LAGOM viral beauty content" src={instagram("DZuSWojvKO9")} href="https://www.instagram.com/reel/DZuSWojvKO9/" /></Reveal>
+            <Reveal delay={120}><VideoCard label="Viral Content · Instagram Reel" title="LAGOM creator content" src={instagram("DXzCSgvp6m8")} href="https://www.instagram.com/reel/DXzCSgvp6m8/" /></Reveal>
             <Reveal delay={60}><VideoCard label="Instagram · Other markets" title="Global creator feature" src={instagram("DbUiAkKMMhk")} href="https://www.instagram.com/reel/DbUiAkKMMhk/" /></Reveal>
             <Reveal delay={120}><VideoCard label="Instagram · Other markets" title="Cross-market storytelling" src={instagram("DYo_TM_tGCD")} href="https://www.instagram.com/reel/DYo_TM_tGCD/" /></Reveal>
-<Reveal delay={180} className="social-profile-card"><div><span>Current social portfolio · LAGOM</span><h3>@lagom.global.official</h3><p>Explore ongoing beauty content and creator collaborations for LAGOM.</p><a className="glass-button primary-button" href="https://www.instagram.com/lagom.global.official" target="_blank" rel="noreferrer">Open Instagram <span>↗</span></a></div></Reveal>          </div>
+            <Reveal delay={180} className="social-profile-card"><div><span>Current social portfolio · LAGOM</span><h3>@lagom.global.official</h3><p>Explore ongoing beauty content and creator collaborations for LAGOM.</p><a className="glass-button primary-button" href="https://www.instagram.com/lagom.global.official" target="_blank" rel="noreferrer">Open Instagram <span>↗</span></a></div></Reveal>          </div>
         </section>
 
         <section id="exhibitions" className="exhibition-story section-pad">
