@@ -61,8 +61,7 @@ export default function WorkPage() {
             <Reveal delay={120}><VideoCard label="Instagram Reel" title="Campaign continuation" src={instagram("Da-WJlhtuM3")} href="https://www.instagram.com/reel/Da-WJlhtuM3/" /></Reveal>
             <Reveal delay={60}><VideoCard label="Instagram · Other markets" title="Global creator feature" src={instagram("DbUiAkKMMhk")} href="https://www.instagram.com/reel/DbUiAkKMMhk/" /></Reveal>
             <Reveal delay={120}><VideoCard label="Instagram · Other markets" title="Cross-market storytelling" src={instagram("DYo_TM_tGCD")} href="https://www.instagram.com/reel/DYo_TM_tGCD/" /></Reveal>
-            <Reveal delay={180} className="social-profile-card"><div><span>Ongoing social portfolio</span><h3>@yeoriyeori_global</h3><p>Explore more market-facing content and creator collaborations.</p><a className="glass-button primary-button" href="https://www.instagram.com/yeoriyeori_global" target="_blank" rel="noreferrer">Open Instagram <span>↗</span></a></div></Reveal>
-          </div>
+<Reveal delay={180} className="social-profile-card"><div><span>Current social portfolio · LAGOM</span><h3>@lagom.global.official</h3><p>Explore ongoing beauty content and creator collaborations for LAGOM.</p><a className="glass-button primary-button" href="https://www.instagram.com/lagom.global.official" target="_blank" rel="noreferrer">Open Instagram <span>↗</span></a></div></Reveal>          </div>
         </section>
 
         <section id="exhibitions" className="exhibition-story section-pad">
