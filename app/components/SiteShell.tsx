@@ -35,7 +35,7 @@ export function SiteShell({ children }: { children: React.ReactNode }) {
             </a>
           ))}
         </nav>
-        <a className="glass-button header-cta" href="mailto:chiroshreedas23@gmail.com">
+        <a className="glass-button header-cta" href="mailto:chiroshreedas9@gmail.com">
           Let&apos;s connect <span aria-hidden="true">↗</span>
         </a>
       </header>
@@ -51,10 +51,10 @@ export function SiteShell({ children }: { children: React.ReactNode }) {
         <div className="footer-links">
           <a href="/work">Selected work</a>
           <a href="/about">About</a>
-          <a href="https://www.instagram.com/yeoriyeori_global" target="_blank" rel="noreferrer">
+          <a href="https://www.instagram.com/lagom.global.official" target="_blank" rel="noreferrer">
             Instagram
           </a>
-          <a href="mailto:chiroshreedas23@gmail.com">Email</a>
+          <a href="mailto:chiroshreedas9@gmail.com">Email</a>
         </div>
         <p className="footer-note">Seoul, South Korea · Open to global beauty opportunities</p>
       </footer>
