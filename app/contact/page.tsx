@@ -12,10 +12,10 @@ export default function ContactPage() {
           <p className="eyebrow centered"><span /> Start a conversation</p>
           <h1>Let&apos;s make beauty<br /><em>travel well.</em></h1>
           <p>For influencer marketing, global growth, campaign operations, or cross-market beauty opportunities.</p>
-          <a className="email-link" href="mailto:chiroshreedas23@gmail.com">chiroshreedas23@gmail.com <span>↗</span></a>
+          <a className="email-link" href="mailto:chiroshreedas9@gmail.com">chiroshreedas9@gmail.com <span>↗</span></a>
           <div className="contact-grid">
             <a href="mailto:chiroshreedas23@gmail.com"><span>Email</span><strong>Say hello</strong><i>↗</i></a>
-            <a href="https://www.instagram.com/yeoriyeori_global" target="_blank" rel="noreferrer"><span>Instagram</span><strong>View social work</strong><i>↗</i></a>
+            <a href="https://www.instagram.com/lagom.global.official" target="_blank" rel="noreferrer"><span>Instagram</span><strong>View social work</strong><i>↗</i></a>
             <div><span>Based in</span><strong>Seoul, South Korea</strong><i>⌁</i></div>
           </div>
         </section>
