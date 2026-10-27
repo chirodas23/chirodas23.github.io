@@ -368,7 +368,7 @@ h1 em,h2 em { color: var(--rose-dark); font-weight: 400; }
   .portrait-card { width: 260px; }
   .float-card-one { left: -5%; top: 23%; }.float-card-two { right: -3%; bottom: 16%; }
   .beauty-bubble { display: none; }.scroll-cue { display: none; }
-  .intro-section, .campaign-section, .fair-section, .education-section, .skills-section, .timeline-section, .work-preview, .analytics-section, .language-band, .recognition-section, .analytics-detail, .exhibition-story { padding-top: 95px; padding-bottom: 95px; }
+  .intro-section, .campaign-section, .fair-section, .education-section, .skills-section, .timeline-section, .work-preview, .analytics-section, .language-band, .recognition-section, .analytics-detail, .meet-greet-section, .exhibition-story { padding-top: 95px; padding-bottom: 95px; }
   .section-heading { margin-bottom: 45px; }.section-heading h2 { font-size: 49px; }
   .value-grid, .video-grid, .education-grid, .skills-columns, .proof-grid, .contact-grid { grid-template-columns: 1fr; }
   .value-card { min-height: 255px; }
