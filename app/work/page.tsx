@@ -3,8 +3,11 @@ import { Reveal } from "../components/Reveal";
 import { SiteShell } from "../components/SiteShell";
 import { VideoCard } from "../components/VideoCard";
 
-export const metadata: Metadata = { title: "Work", description: "Campaigns, global beauty marketing experience, analytics, and B2B exhibitions by Chiroshree Das." };
-
+export const metadata: Metadata = {
+  title: "Work",
+  description:
+    "Campaigns, global beauty marketing experience, TikTok Shop influencer events, analytics, and B2B exhibitions by Chiroshree Das.",
+};
 const instagram = (id: string) => `https://www.instagram.com/reel/${id}/embed/captioned/?autoplay=1&muted=1`;
 
 const roles = [
@@ -66,6 +69,43 @@ export default function WorkPage() {
             <Reveal delay={180} className="social-profile-card"><div><span>Current social portfolio · LAGOM</span><h3>@lagom.global.official</h3><p>Explore ongoing beauty content and creator collaborations for LAGOM.</p><a className="glass-button primary-button" href="https://www.instagram.com/lagom.global.official" target="_blank" rel="noreferrer">Open Instagram <span>↗</span></a></div></Reveal>          </div>
         </section>
 
+                <section id="meet-greet" className="meet-greet-section section-pad">
+          <Reveal className="section-heading split-heading">
+            <div>
+              <p className="eyebrow">
+                <span /> Meet & Greet Events
+              </p>
+              <h2>
+                Relationships built
+                <br />
+                <em>beyond the screen.</em>
+              </h2>
+            </div>
+
+            <p>
+              Connecting with creators in person to strengthen relationships,
+              understand their audiences, and support authentic beauty
+              collaborations.
+            </p>
+          </Reveal>
+
+          <Reveal className="meet-greet-feature">
+            <img
+              src="/assets/tiktokshop-influencers-meet-greet.jpg"
+              alt="Chiroshree Das meeting a TikTok Shop influencer at a beauty event"
+            />
+
+            <div className="meet-greet-caption">
+              <span>Meet & Greet Events</span>
+              <h3>TikTokShop Influencers</h3>
+              <p>
+                Building creator relationships through in-person beauty events
+                and meaningful, relationship-led influencer engagement.
+              </p>
+            </div>
+          </Reveal>
+        </section>
+        
         <section id="exhibitions" className="exhibition-story section-pad">
           <Reveal className="section-heading split-heading"><div><p className="eyebrow light"><span /> B2B exhibitions</p><h2>Where digital fluency<br />meets <em>the room.</em></h2></div><p>G-Fair, Mega Show, sourcing markets, product introductions, and buyer consultations for YeoriYeori.</p></Reveal>
           <div className="exhibition-grid">
